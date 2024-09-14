@@ -85,7 +85,7 @@ let handelOutGoingChat = () => {
   if (!userMessage) return;
   let html = `
             <div class="message-content">
-              <img src="images/WhatsApp Image 2024-06-11 at 00.16.44_1a2b6d40.jpg" alt="">
+              <img src="images/speaker-1.png" alt="">
             <p class="text"></p>
           </div>`;
   const div = document.createElement("div");
